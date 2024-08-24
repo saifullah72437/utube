@@ -154,9 +154,9 @@ const Layout = ({ children }) => {
             >
               <SearchIcon size={25} color={"#fff"} />
             </button>
-            <Link href={`https://slyro.vercel.app`} target="_blank">
+            <Link href={`https://github.com/saifullah72437`} target="_blank">
               <img
-                src={`https://github.com/khandelwaldev.png`}
+                src={`https://avatars.githubusercontent.com/u/73275780?v=4`}
                 width={35}
                 height={35}
                 className="rounded-full"
